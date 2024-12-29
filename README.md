@@ -13,6 +13,8 @@ Most modifications allow for a rough approximation of vi movement through the ke
 * NixOS
   * Setup udev rules in system configuration.nix:
     * `services.udev.packages = with pkgs; [ via ];`
+    * `hardware.keyboard.qmk.enable = true;`
+    * Keychron may need custom rules
   * Install and run `via`
 * Other
   * Use Chrome to visit https://usevia.app/
