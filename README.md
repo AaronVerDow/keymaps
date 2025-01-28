@@ -31,3 +31,5 @@ Most modifications allow for a rough approximation of vi movement through the ke
   * Q: IdeaPad
   * W: Go Nix
   * E:
+* MX Anywhere
+  * 1: IdeaPad
